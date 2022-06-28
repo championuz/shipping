@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/shipping/static/js/main.3d6ef02b.js",
+    "index.html": "/shipping/index.html",
+    "main.3d6ef02b.js.map": "/shipping/static/js/main.3d6ef02b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3d6ef02b.js"
+  ]
+}
